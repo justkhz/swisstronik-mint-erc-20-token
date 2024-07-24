@@ -104,7 +104,8 @@ github : [Mnuralim](https://github.com/Mnuralim)
 My Social Media :
 
 
-twitter : @Izzycracker04
+twitter : @Waris_Khuzaini
 
-Feel Free Dobate
+Feel Free Donate
+
 //0x6212423B7c0988474863B7541e4e0E78300A0870
