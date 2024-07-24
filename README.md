@@ -2,14 +2,6 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
-
 ## Steps
 
 ### 1. Clone Repository
@@ -105,8 +97,14 @@ npm run transfer
 - Copy the address and paste the address in testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
-by :
+Tutorial by :
+
 github : [Mnuralim](https://github.com/Mnuralim)
+
+My Social Media :
+
+
 twitter : @Izzycracker04
-telegram : @fitriay19
-//0x37401D115bC52bBdaa59Df7f7e021523b020F98f
+
+Feel Free Dobate
+//0x6212423B7c0988474863B7541e4e0E78300A0870
